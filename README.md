@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mertseyit
+- 👋 Hi, I’m @kod.editor
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning HTML CSS Javascript
 - 💞️ I’m looking to collaborate on your projects
