@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currentl student at KSBU<br>I'm interested in Web Designed
+I'm currently student at KSBU<br>I'm interested in Web Designed
 
 
 ## 🌐 Socials:
