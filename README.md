@@ -9,7 +9,7 @@ I'm currently student at KSBU<br>I'm interested in Web Designed
 
 Visit my Web Page
 
-https://mertseyit.github.io/my-web/
+https://mertseyit.github.io/portfolio/
 
 https://www.buymeacoffee.com/seyityilmaW
 
