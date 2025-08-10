@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently student at KSBU<br>I'm interested in Web Designed
+I'm currently working as Freelance web developer<br>I'm interested in Web Designed
 
 [![](https://visitcount.itsvg.in/api?id=mertseyit&icon=0&color=0)](https://visitcount.itsvg.in)
 
