@@ -9,7 +9,7 @@ I'm currently working as Freelance web developer<br>I'm interested in Web Design
 
 Visit my Web Page
 
-[[https://mertseyit.github.io/portfolio/](https://www.mertseyit.com/)](https://www.mertseyit.com/)
+https://www.mertseyit.com/
 
 https://www.buymeacoffee.com/seyityilmaW
 
